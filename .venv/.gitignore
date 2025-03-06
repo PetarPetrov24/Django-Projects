@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.env
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Database files (SQLite)
+*.sqlite3
+
+# Logs & Debug files
+logs/
+*.log
+
+# Static and media files (if using local storage)
+staticfiles/
+media/
+
+# IDE & Editor files
+.vscode/
+.idea/
+.DS_Store
